@@ -1,2 +1,2 @@
 # flappy-test
-co-op
+a pvp version of flaby bird
