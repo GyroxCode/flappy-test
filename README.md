@@ -1,2 +1,2 @@
 # flappy-test
-a pvp version of flaby bird
+an open source, heavily scuffed reimagination of the classic game flappy bird
